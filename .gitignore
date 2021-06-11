@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+__pycache__
+classes
+classes_named
+mineraller
+test_classes
+accuracy.jpg
+accuracy2.jpg
+augmantator.py
+data.db
+loss.jpg
+loss2.jpg
